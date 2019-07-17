@@ -33,8 +33,7 @@ author:
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: sagnikj-github-io
-  public_key: iyOTEWb9CJ8BvZQjRu0B91Mq0i0cBWgEQ5s61fN9TIY9q9f1LDUr8R2NEX4ONBDA
+  name: sagnikjena.github.io
 
 # analytics
 ## google analytics
