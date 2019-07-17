@@ -11,7 +11,7 @@ vid_path: /static/assets/vids/blog
 
 # author -- index page "about me" section
 author:
-  avatar: /static/assets/img/landing/Capture.PNG  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/profile.PNG  # upload your avatar at directory and edit it.
   name: Sagnik Jena  # Be used at blog posts' author.
   first_name: Sagnik  # Be used at index page about me section.
   last_name: Jena  # Be used at index page about me section.
@@ -24,7 +24,7 @@ author:
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
+    - name: fa-bar-chart
     - name: fa-linux
   skill_icon2:
     - name: fa-linux
