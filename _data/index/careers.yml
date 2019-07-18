@@ -10,10 +10,10 @@
     i18n: company_a_desc
   date:
     detail: April, 2019
-    i18n: company_a_date
+    i18n: company_b_date
   job:
     detail: Data Scientist | Senior Associate
-    i18n: company_a_job
+    i18n: company_b_job
   icon: fa-user
   present: true
 
