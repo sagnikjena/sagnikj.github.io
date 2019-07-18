@@ -1,30 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: PricewaterhouseCoopers Pvt Ltd, India
+    i18n: company_b
   desc:
-    detail: I worked at Company A ...
+    detail: I am currently working as a Data Scientist in PwC where I leverage advanced analytics concepts like machine
+    learning, NLP and deep learning to solve important client problems. Some of my work include process optimization
+    using genetics based machine learning and informational retrival using OCR and NLP.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: April, 2019
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Data Scientist | Senior Associate
     i18n: company_a_job
-  icon: fa-plus-square
+  icon: fa-user
   present: true
+
+  - name:
+      detail: PricewaterhouseCoopers Pvt Ltd, India
+      i18n: company_promo_b
+    date:
+      detail: April, 2015
+      i18n: company_promo_b_date
+    job:
+      detail: Got a promotion from Associate to Senior Associate!
+      i18n: company_promo_b_job
+    icon: fa-plus-square
+
 
 - name:
     detail: Company B
-    i18n: company_b
+    i18n: company_a
   desc:
     detail: I worked at Company B ...
-    i18n: company_b_desc
+    i18n: company_a_desc
   date:
     detail: Jun. 2015
-    i18n: company_b_date
+    i18n: company_a_date
   job:
     detail: Full Stack Developer
-    i18n: company_b_job
+    i18n: company_a_job
   icon: fa-plus-square
