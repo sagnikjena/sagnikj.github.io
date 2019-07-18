@@ -17,28 +17,16 @@
   icon: fa-user
   present: true
 
-  - name:
-      detail: PricewaterhouseCoopers Pvt Ltd, India
-      i18n: company_promo_b
-    date:
-      detail: April, 2015
-      i18n: company_promo_b_date
-    job:
-      detail: Got a promotion from Associate to Senior Associate!
-      i18n: company_promo_b_job
-    icon: fa-plus-square
-
-
 - name:
-    detail: Company B
-    i18n: company_a
+    detail: PricewaterhouseCoopers Pvt Ltd, India
+    i18n: company_promo_b
   desc:
-    detail: I worked at Company B ...
-    i18n: company_a_desc
+    detail:
+    i18n: company_promo_b_desc
   date:
-    detail: Jun. 2015
-    i18n: company_a_date
+    detail: March, 2019
+    i18n: company_promo_b_date
   job:
-    detail: Full Stack Developer
-    i18n: company_a_job
+    detail: Got a promotion from Associate to Senior Associate!
+    i18n: company_promo_b_job
   icon: fa-plus-square
