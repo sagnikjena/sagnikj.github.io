@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: PricewaterhouseCoopers Pvt Ltd, India
+    detail: PricewaterhouseCoopers Pvt Ltd, Kolkata, India
     i18n: pwc_sa
   desc:
     detail: I am currently working as a Data Scientist in PwC where I leverage advanced analytics concepts like machine learning, NLP and deep learning to solve important client problems. I am actively involved in developing the team's capabilities in data science and machine learning. Some of my work include process optimization in manufacturing using genetics based machine learning and informational retrival using OCR and NLP in Tax.
@@ -12,7 +12,7 @@
   job:
     detail: Senior Associate - Data Scientist
     i18n: pwc_sa_job
-  icon: fa-user
+  icon: fa-black-tie
   present: true
 
 - name:
@@ -30,7 +30,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: PricewaterhouseCoopers Pvt Ltd, India
+    detail: PricewaterhouseCoopers Pvt Ltd, Kolkata, India
     i18n: pwc_a
   desc:
     detail: As an Associate in PwC, I was involved in designing, developing, and reporting results from prototype or proof-of-concept research projects that focused on 1) new tools, methods, or algorithm, 2) new scientific domains or application areas, 3) new datasets or sources.
@@ -41,10 +41,10 @@
   job:
     detail: Associate
     i18n: pwc_a_job
-  icon: fa-user
+  icon: fa-black-tie
 
 - name:
-    detail: Praxis Business School, Bangalore
+    detail: Praxis Business School, Bengaluru, India
     i18n: masters
   desc:
     detail: Post graduation program in Business Analytics
@@ -55,4 +55,74 @@
   job:
     detail: Post Graduation Student
     i18n: masters_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: AnalytixLabs, Gurugram, India
+    i18n: cert
+  desc:
+    detail: Certification on big data technologies - Hadoop, Spark, Hive, HBase, Sqoop, Flume
+    i18n: cert_desc
+  date:
+    detail: March, 2016 - October, 2016
+    i18n: cert_date
+  job:
+    detail: Post Graduation Student
+    i18n: cert_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: Cognizant Technology Solutions Pvt Ltd, Bengaluru, India
+    i18n: cts
+  desc:
+    detail: As an ETL developer in Cognizant, I was involved in loading client data into a data warehousing environment, testing it for performance, and troubleshooting it before it went live. I also developed automation scripts using shell scripting to optimize and speed-up the ETL pipeline.
+    i18n: cts_desc
+  date:
+    detail: May, 2012 - April, 2015
+    i18n: cts_date
+  job:
+    detail: Programme Analyst
+    i18n: cts_job
+  icon: fa-black-tie
+
+- name:
+    detail: Amrita Vishwa Vidyapeetham, Bengaluru, India
+    i18n: btech
+  desc:
+    detail: Bachelors of technology in Electronics and Electrical Engineering
+    i18n: btech_desc
+  date:
+    detail: July, 2008 - May, 2012
+    i18n: btech_date
+  job:
+    detail: Undergraduate Student
+    i18n: btech_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: Delhi Public School, Jodhpur, India
+    i18n: hs
+  desc:
+    detail: Higher Secondary School
+    i18n: hs_desc
+  date:
+    detail: 2006 - 2008
+    i18n: hs_date
+  job:
+    detail: Student
+    i18n: hs_job
+  icon: fa-graduation-cap
+
+- name:
+    detail: Delhi Public School, Jodhpur, India
+    i18n: sec
+  desc:
+    detail: Secondary School
+    i18n: sec_desc
+  date:
+    detail: 2000 - 2006
+    i18n: sec_date
+  job:
+    detail: Student
+    i18n: sec_job
   icon: fa-graduation-cap
