@@ -7,7 +7,7 @@
     detail: I am currently working as a Data Scientist in PwC where I leverage advanced analytics concepts like machine learning, NLP and deep learning to solve important client problems. I am actively involved in developing the team's capabilities in data science and machine learning. Some of my work include process optimization in manufacturing using genetics based machine learning and informational retrival using OCR and NLP in Tax.
     i18n: pwc_sa_desc
   date:
-    detail: April, 2019
+    detail: April, 2019 - Present
     i18n: pwc_sa_date
   job:
     detail: Senior Associate - Data Scientist
@@ -36,9 +36,23 @@
     detail: As an Associate in PwC, I was involved in designing, developing, and reporting results from prototype or proof-of-concept research projects that focused on 1) new tools, methods, or algorithm, 2) new scientific domains or application areas, 3) new datasets or sources.
     i18n: pwc_a_desc
   date:
-    detail: Oct, 2017 - Mar, 2019
+    detail: October, 2017 - March, 2019
     i18n: pwc_a_date
   job:
     detail: Associate
     i18n: pwc_a_job
   icon: fa-user
+
+- name:
+    detail: Praxis Business School, Bangalore
+    i18n: masters
+  desc:
+    detail: Post graduation program in Business Analytics
+    i18n: masters_desc
+  date:
+    detail: January, 2017 - October, 2017
+    i18n: masters_date
+  job:
+    detail: Post Graduation Student
+    i18n: masters_job
+  icon: fa-fa-graduation-cap
