@@ -67,7 +67,7 @@
     detail: March, 2016 - October, 2016
     i18n: cert_date
   job:
-    detail: Post Graduation Student
+    detail: Certification Trainee
     i18n: cert_job
   icon: fa-graduation-cap
 
@@ -97,32 +97,4 @@
   job:
     detail: Undergraduate Student
     i18n: btech_job
-  icon: fa-graduation-cap
-
-- name:
-    detail: Delhi Public School, Jodhpur, India
-    i18n: hs
-  desc:
-    detail: Higher Secondary School
-    i18n: hs_desc
-  date:
-    detail: 2006 - 2008
-    i18n: hs_date
-  job:
-    detail: Student
-    i18n: hs_job
-  icon: fa-graduation-cap
-
-- name:
-    detail: Delhi Public School, Jodhpur, India
-    i18n: sec
-  desc:
-    detail: Secondary School
-    i18n: sec_desc
-  date:
-    detail: 2000 - 2006
-    i18n: sec_date
-  job:
-    detail: Student
-    i18n: sec_job
   icon: fa-graduation-cap
