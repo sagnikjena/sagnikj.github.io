@@ -7,7 +7,7 @@
     detail: I am currently working as a Data Scientist in PwC where I leverage advanced analytics concepts like machine
     learning, NLP and deep learning to solve important client problems. Some of my work include process optimization
     using genetics based machine learning and informational retrival using OCR and NLP.
-    i18n: company_a_desc
+    i18n: company_b_desc
   date:
     detail: April, 2019
     i18n: company_b_date
