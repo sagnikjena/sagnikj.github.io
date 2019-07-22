@@ -2357,6 +2357,10 @@ body {
   }
 }
 
+#my_centered_buttons {
+  display: flex;
+  justify-content: center;
+}
 
 .landing-page {
   span.navy {
@@ -2655,7 +2659,7 @@ body {
   .testimonials {
     padding-top: 80px;
     padding-bottom: 90px;
-    background-color: #3385FF;
+    background-color: #00FFFFFF;
     background-image: url(../assets/img/landing/avatar_all.png);
   }
   .contact {

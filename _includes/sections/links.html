@@ -19,7 +19,7 @@
         {% endif %}
         <div class="team-member">
             <h4><span class="navy">{{ link.last_name }}</span> {{ link.first_name }}</h4>
-            <p>{{ link.desc }}</p>
+            <p><u>Mobile:</u> {{ link.phone }}</p>
             <ul class="list-inline social-icon">
                 <li><a href="{{ link.website }}" target="blank"><i class="fa fa-link"></i></a>
                 </li>
@@ -30,6 +30,30 @@
         </div>
     {% endfor %}
     </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
+                    <p><span data-i18n="link.share">Share my website</span> </p>
+                <div class="a2a_kit a2a_kit_size_32 a2a_default_style" id="my_centered_buttons" style="line-height: 32px;">
+                    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+                    <a class="a2a_button_facebook" href="/#facebook" rel="nofollow noopener"></a>
+                    <a class="a2a_button_twitter"></a>
+                    <a class="a2a_button_google_plus"></a>
+                    <a class="a2a_button_linkedin"></a>
+                    <a class="a2a_button_email"></a>
+                    <a class="a2a_button_wechat"></a>
+                    <a class="a2a_button_sina_weibo"></a>
+                    <a class="a2a_button_pocket"></a>
+                    </div>
+                    <script>
+                    var a2a_config = a2a_config || {};
+                    a2a_config.color_main = "D7E5ED";
+                    a2a_config.color_border = "AECADB";
+                    a2a_config.color_link_text = "333333";
+                    a2a_config.color_link_text_hover = "333333";
+                    </script>
+                    <script async src="https://static.addtoany.com/menu/page.js"></script>
+            </div>
+        </div>
     <div class="row">
         <div class="team-member">
             <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
@@ -43,4 +67,4 @@
             </div>
         </div>
     </div>
-        </div>
+    </div>

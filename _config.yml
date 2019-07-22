@@ -28,8 +28,8 @@ author:
     - name: fa-linux
   skill_icon2:
     - name: fa-code
-    - name: fa-android
-  desc: Introduce myself will be here.  # Describe yourself.
+    - name: fa-area-chart
+  desc: I am a data scientist by profession, and an avid gamer at heart. I'm an extremely organized person who is focused on producing results. While I am always realistic when setting goals, I consistently develop ways to efficiently achieve, and often exceed, those goals. I am always eager to learn new things which will not only help me with my job, but also help me become a better person.   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
