@@ -1,0 +1,16 @@
+# blog page sections
+- name: Data science portfolio — how should you start?
+  desc: Maybe you are a veteran in the field of Data science, maybe you are a beginner or a person who wants to step into this field, one thing…
+  meta: Published on Dec 29, 2018 · 5 min read
+  href: https://medium.com/@sagnik.jena/data-science-portfolio-how-should-you-start-b3f049d175c0
+
+# edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
+- name: Data science portfolio — how should you start?
+  desc: Maybe you are a veteran in the field of Data science, maybe you are a beginner or a person who wants to step into this field, one thing…
+  meta: Published on Dec 29, 2018 · 5 min read
+  href: https://medium.com/@sagnik.jena/data-science-portfolio-how-should-you-start-b3f049d175c0
+
+- name: Data science portfolio — how should you start?
+  desc: Maybe you are a veteran in the field of Data science, maybe you are a beginner or a person who wants to step into this field, one thing…
+  meta: Published on Dec 29, 2018 · 5 min read
+  href: https://medium.com/@sagnik.jena/data-science-portfolio-how-should-you-start-b3f049d175c0
