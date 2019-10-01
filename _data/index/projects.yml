@@ -1,22 +1,29 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Object Detection | A simple web app
+  i18n: obj_detect
+  gh_user: sagnikjena
+  repo: Object_Detection
+  img: /static/assets/img/landing/obj-detect.png
+  desc: A minimalistic web application using Flask and ImageAI to detect objects in an image.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Withholding Tax Manager | PwC India
+  i18n: wht
+  url: https://www.pwc.in/tax-and-regulatory-services/tax-technology/withholding-tax-manager.html
+  img: /static/assets/img/landing/wht.png
+  desc: Was involved in developing the machine learning capability of PwC India's in-house web application called the Withholding Tax Manager. The application is used by the clients for the reconciliation of their organizations withholding tax data.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Semantic Search
+  i18n: ssm
+  gh_user: sagnikjena
+  repo: semantic-search
+  img: /static/assets/img/landing/semantic.png
+  desc: Developed a semantic search API for a client which uses natural language understanding and a custom ranking algorithm to return results based not only on keywords, but the contextual meaning and intent of the user query.
+
+- name: Smart String Matching
+  i18n: ssm
+  gh_user: sagnikjena
+  repo: Smart-string-matching
+  img: /static/assets/img/landing/string-match.jpg
+  desc: The algorithm speeds up the string matching process by using text mining concepts like TF-IDF and cosine similarity.
