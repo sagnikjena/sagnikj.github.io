@@ -15,7 +15,7 @@
   desc: Was involved in developing the machine learning capability of PwC India's in-house web application called the Withholding Tax Manager. The application is used by the clients for the reconciliation of their organizations withholding tax data.
 
 - name: Semantic Search
-  i18n: ssm
+  i18n: ss
   gh_user: sagnikjena
   repo: semantic-search
   img: /static/assets/img/landing/semantic.png
