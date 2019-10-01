@@ -34,22 +34,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
                     <p><span data-i18n="link.share">Share my website</span> </p>
                     <style type="text/css"> #my_centered_buttons { display: flex; justify-content: center; }</style>
-                <div class="a2a_kit a2a_kit_size_32 a2a_default_style" id="my_centered_buttons">
-                    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-                    <a class="a2a_button_facebook" href="/#facebook"></a>
-                    <a class="a2a_button_linkedin" href="/#linkedin"></a>
-                    <a class="a2a_button_whatsapp" href="/#whatsapp"></a>
-                    <a class="a2a_button_email" href="/#email"></a>
-                    <a class="a2a_button_wechat" href="/#wechat"></a>
-                    </div>
-                    <script>
-                    var a2a_config = a2a_config || {};
-                    a2a_config.color_main = "D7E5ED";
-                    a2a_config.color_border = "AECADB";
-                    a2a_config.color_link_text = "333333";
-                    a2a_config.color_link_text_hover = "333333";
-                    </script>
-                    <script async src="https://static.addtoany.com/menu/page.js"></script>
+                {% include share.html %}
             </div>
         </div>
     <div class="row">
