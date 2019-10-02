@@ -4,13 +4,13 @@
     detail: PricewaterhouseCoopers Pvt Ltd, Kolkata, India
     i18n: pwc_sa
   desc:
-    detail: I am currently working as a Data Scientist in PwC where I leverage advanced analytics concepts like machine learning, NLP and deep learning to solve important client problems. I am actively involved in developing the team's capabilities in data science and machine learning as well. Some of my works include process optimization in manufacturing using genetics based machine learning and informational retrival using OCR and NLP in Tax.
+    detail: I am currently working as a Machine Learning Engineer at PwC where I leverage advanced analytics concepts like machine learning, NLP and deep learning to solve important client problems. I am actively involved in developing the team's capabilities in data science and machine learning as well. Some of my works include process optimization in manufacturing using genetics based machine learning and informational retrival using OCR and NLP in Tax.
     i18n: pwc_sa_desc
   date:
     detail: April, 2019 - Present
     i18n: pwc_sa_date
   job:
-    detail: Senior Associate - Data Scientist
+    detail: Machine Learning Engineer | Senior Consultant
     i18n: pwc_sa_job
   icon: fa-black-tie
   present: true
@@ -19,7 +19,7 @@
     detail: PricewaterhouseCoopers Pvt Ltd, India
     i18n: pwc_promo
   desc:
-    detail: Got promoted from Associate to Senior Associate
+    detail: Got promoted from Consultant to Senior Consultant
     i18n: pwc_promo_desc
   date:
     detail: March, 2019
@@ -33,13 +33,13 @@
     detail: PricewaterhouseCoopers Pvt Ltd, Kolkata, India
     i18n: pwc_a
   desc:
-    detail: As an Associate in PwC, I was involved in designing, developing, and reporting results from prototype or proof-of-concept research projects that focused on 1) new tools, methods, or algorithm, 2) new scientific domains or application areas, 3) new datasets or sources.
+    detail: As a Consultant at PwC, I was involved in designing, developing, and reporting results from prototype or proof-of-concept research projects that focused on 1) new tools, methods, or algorithm, 2) new scientific domains or application areas, 3) new datasets or sources.
     i18n: pwc_a_desc
   date:
     detail: October, 2017 - March, 2019
     i18n: pwc_a_date
   job:
-    detail: Associate
+    detail: Consultant
     i18n: pwc_a_job
   icon: fa-black-tie
 
