@@ -3,10 +3,7 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/header_one.jpg
-  title: Image credit - BelleDeesse[https://www.wallpaperup.com/member/profile/1115]
+  title: Adventure
 
 - src: landing/header_two.jpg
-  title: Image credit - Guest[https://www.wallpaperup.com/member/profile/3]
-
-- src: landing/header_three.jpg
-  title: PwC TC University Victory
+  title: Games
