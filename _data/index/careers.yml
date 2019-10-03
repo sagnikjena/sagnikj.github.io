@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: PricewaterhouseCoopers Pvt Ltd, Kolkata, India
+    detail: PricewaterhouseCoopers Pvt. Ltd., Kolkata, India
     i18n: pwc_sa
   desc:
     detail: I am currently working as a Machine Learning Engineer at PwC where I leverage advanced analytics concepts like machine learning, NLP and deep learning to solve important client problems. I am actively involved in developing the team's capabilities in data science and machine learning as well. Some of my works include process optimization in manufacturing using genetics based machine learning and informational retrival using OCR and NLP in Tax.
@@ -16,7 +16,7 @@
   present: true
 
 - name:
-    detail: PricewaterhouseCoopers Pvt Ltd, India
+    detail: PricewaterhouseCoopers Pvt. Ltd., India
     i18n: pwc_promo
   desc:
     detail: Got promoted from Consultant to Senior Consultant
@@ -30,7 +30,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: PricewaterhouseCoopers Pvt Ltd, Kolkata, India
+    detail: PricewaterhouseCoopers Pvt. Ltd., Kolkata, India
     i18n: pwc_a
   desc:
     detail: As a Consultant at PwC, I was involved in designing, developing, and reporting results from prototype or proof-of-concept research projects that focused on 1) new tools, methods, or algorithm, 2) new scientific domains or application areas, 3) new datasets or sources.
@@ -47,7 +47,7 @@
     detail: Praxis Business School, Bengaluru, India
     i18n: masters
   desc:
-    detail: Post graduation program in Business Analytics
+    detail: Post Graduation Program in Datascience
     i18n: masters_desc
   date:
     detail: January, 2017 - October, 2017
@@ -72,7 +72,7 @@
   icon: fa-graduation-cap
 
 - name:
-    detail: Cognizant Technology Solutions Pvt Ltd, Bengaluru, India
+    detail: Cognizant Technology Solutions Pvt. Ltd., Bengaluru, India
     i18n: cts
   desc:
     detail: As an ETL developer in Cognizant, I was involved in loading client data into a data warehousing environment, testing it for performance, and troubleshooting it before it went live. I also developed automation scripts using shell scripting to optimize and speed-up the ETL pipeline.
@@ -81,7 +81,7 @@
     detail: May, 2013 - April, 2015
     i18n: cts_date
   job:
-    detail: Programme Analyst
+    detail: Program Analyst
     i18n: cts_job
   icon: fa-black-tie
 
