@@ -37,5 +37,5 @@
 - name: Manufacturing process optimization using Genetic Algorithm and ML
   i18n: opt
   gh_user: sagnikjena
-  img: /static/assets/img/landing/opt.jpg
+  img: /static/assets/img/landing/opt.png
   desc: A classifier was designed to identify import factors resulting in manufacturing defects and fed into a Genetic Algorithm to optimize the values of process parameters.
