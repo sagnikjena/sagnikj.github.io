@@ -38,4 +38,4 @@
   i18n: opt
   gh_user: sagnikjena
   img: /static/assets/img/landing/opt.jpg
-  desc: Extensive EDA was done on client's manufacturing process data and a classifier was designed to identify import factors resulting in manufacturing defects. The model was further fed into a Genetic Algorithm to optimize the values of process parameters to optimize them and maximize production quality.
+  desc: A classifier was designed to identify import factors resulting in manufacturing defects and fed into a Genetic Algorithm to optimize the values of process parameters.
