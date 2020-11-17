@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: PricewaterhouseCoopers Pvt. Ltd., Kolkata, India
+    detail: PricewaterhouseCoopers Pvt. Ltd., India
     i18n: pwc_sa
   desc:
-    detail: I am currently working as a Machine Learning Engineer at PwC where I leverage advanced analytics concepts like machine learning, NLP and deep learning to solve important client problems. I am actively involved in developing the team's capabilities in data science and machine learning as well. Some of my works include process optimization in manufacturing using genetics based machine learning and informational retrival using OCR and NLP in Tax.
+    detail: I am currently working as a Data Scientist at PwC where I leverage advanced analytics concepts like machine learning, NLP and deep learning to solve important client problems. I am actively involved in developing the team's capabilities in data science and machine learning as well. Some of my works include process optimization in manufacturing using genetics based machine learning and informational retrival using OCR and NLP in Tax.
     i18n: pwc_sa_desc
   date:
     detail: April, 2019 - Present
     i18n: pwc_sa_date
   job:
-    detail: Machine Learning Engineer | Senior Consultant
+    detail: Data Scientist | Senior Consultant
     i18n: pwc_sa_job
   icon: fa-black-tie
   present: true
@@ -30,7 +30,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: PricewaterhouseCoopers Pvt. Ltd., Kolkata, India
+    detail: PricewaterhouseCoopers Pvt. Ltd., India
     i18n: pwc_a
   desc:
     detail: As a Consultant at PwC, I was involved in designing, developing, and reporting results from prototype or proof-of-concept research projects that focused on 1) new tools, methods, or algorithm, 2) new scientific domains or application areas, 3) new datasets or sources.
