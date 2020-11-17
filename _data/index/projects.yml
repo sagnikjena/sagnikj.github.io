@@ -28,13 +28,13 @@
   img: /static/assets/img/landing/string-match.jpg
   desc: The algorithm speeds up the string matching process by using text mining concepts like TF-IDF and cosine similarity.
 
- name: Supply chain simulation analysis
+- name: Supply chain simulation analysis
   i18n: scsa
   gh_user: sagnikjena
   img: /static/assets/img/landing/supply.png
   desc: A client's supply chain was simulated and simulation analysis was done to identify choke points, vulnerable nodes and import factors affecting their supply chain.
 
- name: Manufacturing process optimization using Genetic Algorithm and ML
+- name: Manufacturing process optimization using Genetic Algorithm and ML
   i18n: opt
   gh_user: sagnikjena
   img: /static/assets/img/landing/opt.png
